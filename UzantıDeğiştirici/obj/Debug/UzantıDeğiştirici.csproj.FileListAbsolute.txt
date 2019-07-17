@@ -1,0 +1,28 @@
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\ExportayImageFormatFixer\ExportayImageFormatFixer\bin\Debug\UzantıDeğiştirici.exe.config
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe.config
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csprojResolveAssemblyReference.cache
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\ExportayImageFormatFixer.Form1.resources
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csproj.GenerateResource.Cache
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.Properties.Resources.resources
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Documents\Visual Studio 2015\Projects\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe.config
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csprojResolveAssemblyReference.cache
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\ExportayImageFormatFixer.Form1.resources
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csproj.GenerateResource.Cache
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Desktop\Programs\Visual Studio\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.Properties.Resources.resources
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe.config
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.exe
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\bin\Debug\UzantıDeğiştirici.pdb
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csprojResolveAssemblyReference.cache
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\ExportayImageFormatFixer.Form1.resources
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.Properties.Resources.resources
+C:\Users\mahmu\Desktop\Programs\Visual Studio\C#\UzantıDeğiştirici\UzantıDeğiştirici\obj\Debug\UzantıDeğiştirici.csproj.GenerateResource.Cache
